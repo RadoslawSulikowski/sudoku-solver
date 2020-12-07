@@ -19,7 +19,7 @@ public class SudokuField {
         }
     }
 
-    int getValue() {
+    public int getValue() {
         return value;
     }
 
@@ -39,7 +39,7 @@ public class SudokuField {
         return fieldNumber;
     }
 
-    boolean isUserValue() {
+    public boolean isUserValue() {
         return userValue;
     }
 

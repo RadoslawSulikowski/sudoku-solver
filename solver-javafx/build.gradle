@@ -1,3 +1,7 @@
 plugins {
     id 'sudoku.solver.java-application-conventions'
 }
+
+dependencies {
+    implementation project(':solver-common')
+}
