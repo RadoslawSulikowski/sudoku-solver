@@ -1,0 +1,4 @@
+plugins {
+    id 'sudoku.solver.java-common-conventions'
+    id 'application'
+}

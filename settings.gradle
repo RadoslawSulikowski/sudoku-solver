@@ -1,0 +1,2 @@
+include ':solver-common', ':solver-javafx', ':solver-console'
+
